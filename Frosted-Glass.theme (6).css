@@ -11,7 +11,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans');
 :root {
 --background-image: url('https://i.pinimg.com/originals/cd/da/8a/cdda8a420da502de6d8e279155ba7252.gif');
---background-image-blur: 5px;
+--background-image-blur: 30px;
 --background-image-size: cover;
 --background-image-position: center;
 --popout-modal-image: url('https://i.imgur.com/kYW2H5C.jpg');
